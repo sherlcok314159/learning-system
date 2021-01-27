@@ -1,7 +1,9 @@
 # learning-system
 此仓库将总结我的学习体系，以我的原则为主体扩展
 
-***to be the best,to see the whole world and to make a difference***
+**motto**
+
+***to conquer,to figure out,to enjoy slience,to see a big world and to make a difference***
 
 ***少即是多***
 
