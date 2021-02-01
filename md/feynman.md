@@ -1,4 +1,4 @@
-***1.What I cannot create it,I do not understand***
+***1.What I cannot create,I do not understand***
 
 学习过程中，一开始是重复和复制老师或书上所说，到后来，你应该对知识点本身有自己深刻的认识，能够用简短的话语概括，关于知识点的例子也应该信手拈来，甚至可以自己不断探索，最后可以用这个知识点来创造东西或者自己出问题考自己
 
