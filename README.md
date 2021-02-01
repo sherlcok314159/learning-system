@@ -10,4 +10,6 @@
 * [啃书](md/crack_book.md)
 
 
-
+***联想，可视化及虚拟经历***
+ 
+* [记忆宫殿](md/mind_palace.md)
