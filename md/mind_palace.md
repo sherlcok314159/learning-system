@@ -28,8 +28,7 @@
 网上找的可以作为参考，我当时学的时候，大概是将所有的数字对找了一张纸，然后自己在旁边画出自己第一时间能想到的场景，辅以数字桩,
 可以拿我的丑图参考一下
 
-
-![](https://github.com/sherlcok314159/learning-system/blob/main/Images/md/mind_palace.jpg)
+![](https://github.com/sherlcok314159/learning-system/blob/main/md/Images/mind_palace.jpg)
 
 
 这是关于单独数字方面的编码，但如果你要记忆事件该怎么办呢？
