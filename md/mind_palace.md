@@ -63,5 +63,5 @@
 
 当然啦，记忆宫殿背后的**可视化，使知识与自己产生联系以及联想**的方法很值得养成习惯，学东西的时候自动调用，记忆特别快
 ***
-***REFERENCE: Wikipedia***
+***REFERENCE: https://zh.wikihow.com/%E5%88%9B%E9%80%A0%E8%AE%B0%E5%BF%86%E5%AE%AB%E6%AE%BF***
  
