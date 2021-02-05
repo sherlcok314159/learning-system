@@ -9,6 +9,7 @@
    * [少即是多](md/less_more.md)
    * [学以致用](md/to_use.md)
    * [寻你所爱](md/find_love.md)
+   * [99.9% = 0%](md/full.md)
 
 ***
 ***体系概览***
