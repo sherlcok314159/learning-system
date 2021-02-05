@@ -10,7 +10,7 @@
    * [学以致用](md/to_use.md)
    * [寻你所爱](md/find_love.md)
    * [99.9% = 0%](md/full.md)
-
+   * [条理分明](md/good_order.md)
 ***
 ***体系概览***
 * **记忆**
