@@ -1,19 +1,21 @@
 # learning-system
-此仓库将总结我的学习体系，以我的原则为主体扩展
+此仓库将总结我的学习体系
 
 **motto**
 
 ***to conquer,to figure out,to enjoy slience,to see a big world and to make a difference***
+***
+***核心原则***
+   * [少即是多](md/less_more.md)
+   * [学以致用](md/to_use.md)
+   * [寻你所爱](md/find_love.md)
 
-***少即是多***
+***
+***体系概览***
+* **记忆**
 
-* [啃书](md/crack_book.md)
+   * *[记忆宫殿](md/mind_palace.md)*
+* **巩固**
+    
+    * *[问题导向](md/probelms.md)* 
 
-
-***联想，可视化及虚拟经历***
- 
-* [记忆宫殿](md/mind_palace.md)
-
-***递归***
-
-* [学习](md/feynman.md)
