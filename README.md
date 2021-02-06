@@ -13,8 +13,13 @@
    * [条理分明](md/good_order.md)
    * [刨根究底](md/find_answer.md)
    * [进无止境](md/not_stop.md)
+   * [用心观察](md/observe.md)
 ***
 ***体系概览***
+* **上课**
+   * *[触类旁通](md/connect.md)*
+   * *[可视化](md/visualize.md)*
+
 * **记忆**
 
    * *[记忆宫殿](md/mind_palace.md)*
