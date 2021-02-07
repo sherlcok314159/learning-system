@@ -20,6 +20,11 @@
    * *[触类旁通](md/connect.md)*
    * *[可视化](md/visualize.md)*
 
+* **读书**
+   * *[吃 or 不吃](md/pick.md)*
+   * *[切成小块](md/divide.md)*
+   * *[回味无穷](md/review.md)*
+   * *[做蛋糕](md/make.md)*
 * **记忆**
 
    * *[记忆宫殿](md/mind_palace.md)*
