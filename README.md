@@ -6,6 +6,7 @@
 ***to conquer,to figure out,to enjoy slience,to see a big world and to make a difference***
 ***
 ***核心原则***
+   * [递归法则](md/recuration.md)
    * [少即是多](md/less_more.md)
    * [学以致用](md/to_use.md)
    * [寻你所爱](md/find_love.md)
@@ -32,3 +33,4 @@
     
     * *[问题导向](md/probelms.md)* 
 
+* **目标**
