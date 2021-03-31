@@ -15,6 +15,7 @@
    * [刨根究底](md/find_answer.md)
    * [进无止境](md/not_stop.md)
    * [用心观察](md/observe.md)
+   * [反刍机制](md/go_over.md)
 ***
 ***体系概览***
 * **上课**
