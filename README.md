@@ -3,7 +3,9 @@
 
 **motto**
 
-***to conquer,to figure out,to enjoy slience,to see a big world and to make a difference***
+***to conquer, to figure out, to enjoy slience, to see a big world and to make a difference***
+
+***We never follow. We create***
 ***
 ***核心原则***
    * [递归法则](md/recuration.md)
