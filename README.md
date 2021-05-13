@@ -18,6 +18,7 @@
    * [用心观察](md/observe.md)
    * [反刍机制](md/go_over.md)
    * [模组学习](md/model.md)
+   * [善于提问](md/question.md)
 ***
 ***体系概览***
 * **上课**
